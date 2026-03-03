@@ -4,7 +4,9 @@ This project presents a data-driven Smart Suspension System that predicts optima
 The trained ARX model predicts three optimal suspension parameters:
 
 =>Optimal Damper Coefficient
+
 =>Optimal Damper Force
+
 =>Optimal Damper Displacement
 
 The primary output is Optimal Damper Displacement, which determines how much the suspension must move to effectively absorb road impact and maintain stability.
